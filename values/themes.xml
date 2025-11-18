@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MysticFlutter" parent="Theme.Material3.DayNight.NoActionBar"></style>
+    <style name="Theme.MysticFlutter" parent="Base.Theme.MysticFlutter" />
+</resources>
